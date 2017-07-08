@@ -1,6 +1,3 @@
-# CSV Files
-*.csv
-
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
 
@@ -9,3 +6,6 @@
 
 # Python files
 *.py
+
+# Text files
+*.txt
