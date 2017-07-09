@@ -28,3 +28,9 @@ system.
 * **\*\_weather\_data.csv** - Weather information by day for one station in each
 city in the bike share program.
 
+## Conda environment
+In order to run the software in the same environment as I did, run the following
+commands with conda:  
+ `conda env export > environment.yml`  
+`conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name`  
+replacing `/home/user/anaconda3/envs/env_name` to your conda path.

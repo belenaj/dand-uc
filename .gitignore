@@ -1,3 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
 
@@ -5,7 +10,7 @@
 *.ipynb
 
 # Python files
-*.py
+#*.py
 
 # Text files
 *.txt
